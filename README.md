@@ -26,3 +26,5 @@ USAGE INSTRUCTIONS
                        reference, I was using 10 for the 'Frost Waltz' video 
                        and 4 for the 'Ghost Procession' video.
 
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ffb0b231a9b5500c769af422a8d6bae4 "githalytics.com")](http://githalytics.com/plurSKI/wolframAutomata)
